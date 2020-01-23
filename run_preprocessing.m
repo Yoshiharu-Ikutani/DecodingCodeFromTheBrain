@@ -16,7 +16,7 @@ subj_dir    = grep_files(data_dir, 'sub-.*', 1);
 DELETE_MIDDLE_FILES_AFTER_PROCESSING = true;
 
 % apply pre-processing to every subject data
-for subj_index = 1
+for subj_index = 1:length(subj_dir)
     
     % set paths
     subj_anat_dir  = grep_files(subj_dir{subj_index}, 'anat', 1);
