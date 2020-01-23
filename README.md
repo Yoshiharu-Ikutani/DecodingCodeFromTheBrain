@@ -99,10 +99,10 @@ After parameter settings, please click 'OK' and the results of statistical tests
 ## How to replicate the original paper results
 
 ```
-(1) Open **'/lib_decoding/searchlight_decoding.m'** and set 'true' in variables named 'enableScaling' and 'enableParameterSearch' on line 10 and 11.
-(2) Open **'/lib_decoding/searchlight_decoding_subcategory.m'** and set 'true' in the same-named variables.
-(3) Run decoding analyses for every subject using **'run_searchllight_analysis_for_all_subjects.m'**.
-(4) Run second-level analysis using **'run_second_level_analysis.m'** and **'run_second_level_analysis.m'**
+(1) Open '/lib_decoding/searchlight_decoding.m' and set 'true' in variables named 'enableScaling' and 'enableParameterSearch' on line 10 and 11.
+(2) Open '/lib_decoding/searchlight_decoding_subcategory.m' and set 'true' in the same-named variables.
+(3) Run decoding analyses for every subject using 'run_searchllight_analysis_for_all_subjects.m'.
+(4) Run second-level analysis using 'run_second_level_analysis.m' and 'run_second_level_analysis.m'.
 ```
 
 NOTE: the decoding analysis consumes 5+ days for each subject in authors' own computational environment (MacPro 3.5Gz, 6-core Intel Xeon E5).
