@@ -4,7 +4,7 @@ This repository contains MATLAB code used for preprocessing and decoding analyse
 
 ## Data (fMRI data and subject information)
 
-The dataset including fMRI scans, subject information, and experimental stimuli is available at OpenNeuro ([link](https://openneuro.org/)).
+The dataset including fMRI scans, subject information, and experimental stimuli is available at OpenNeuro ([link](https://openneuro.org/datasets/ds002411)).
 The downloaded dataset should be placed in the root of this repository. The entire directory structure should be same as following:
 
 ```
