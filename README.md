@@ -1,6 +1,6 @@
 # Decoding Functional Categories Of Source Code From The Brain
 
-This repository contains MATLAB code used for preprocessing and decoding analyses in our paper: xxxx. The paper demonstrated that functional categories of source code could be decoded from programmers' brain activity and the decoding accuracies were significantly correlated with individual programming expertise quantified as behavioral performances on source-code categorization.
+This repository contains MATLAB code used for preprocessing and decoding analyses in our paper: "[Expert programmers have fine-tuned cortical representations of source code](https://www.biorxiv.org/content/10.1101/2020.01.28.923953v1)". The paper demonstrated that functional categories of source code could be decoded from programmers' brain activity and the decoding accuracies were significantly correlated with individual programming expertise quantified as behavioral performances on source-code categorization.
 
 ## Data (fMRI data and subject information)
 
