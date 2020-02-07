@@ -107,6 +107,12 @@ After parameter settings, please click 'OK' and the results of statistical tests
 
 NOTE: the decoding analysis consumes 5+ days for each subject in authors' own computational environment (MacPro 3.5Gz, 6-core Intel Xeon E5).
 
+## Updates
+
+Feb 7 2020 :
+The dataset only containing subject and behavioral (events) information is available in [derivatives/](derivatives/).
+You can replicate Figure.2 in the original paper by using R scripts in [derivatives/code](derivatives/code/).
+
 ## Contact
 
 For further information, please contact the corresponding author ( email, takatomi-k@is.naist.jp ).
